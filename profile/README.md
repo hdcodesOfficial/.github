@@ -10,7 +10,7 @@ Founder & Head: [@deepanharsha](https://github.com/deepanharsha/)
 - Created On 14th July 2020 , As an COVID-19 Fun Project Turned Out TO Be a fledged organisation
   
 # Announcements 📣
-- **RECRUITING MEMBERS** Contact Here
+- **RECRUITING MEMBERS** [Contact Here](https://github.com/hdcodesOfficial/#contact-us)
 
 # Members 
 NAME | POSITION | JOIN DATE | USERNAME | CONTACT DETAILS

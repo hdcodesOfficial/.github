@@ -19,4 +19,4 @@ NAME | POSITION | JOIN DATE | USERNAME | CONTACT DETAILS
 
 # CONTACT US
 Contact Of Head (Harsha Deepan)
-Instagram: [@deepan_harsha](https://www.instagram.com/deepan_harsha/) [PLEASE DM ONLY AFTER FOLLOWING]
+Instagram: [@notshoelaze](https://www.instagram.com/notshoelaze/) [PLEASE DM ONLY AFTER FOLLOWING]

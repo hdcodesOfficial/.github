@@ -2,9 +2,12 @@
 Founder & Head: [@deepanharsha](https://github.com/deepanharsha/)
 
 # PROJECTS
-- [HDMG-KindleBooks](https://github.com/hdcodesOfficial/HDMG-KindleBooks)
+### Active Projects:
 - [ProjectYTGet](https://github.com/hdcodesOfficial/ProjectYTGet)
-
+### Inactive Projects:
+- None
+### Discontinued/ Not Maintained Projects:
+- [HDMG-KindleBooks](https://github.com/hdcodesOfficial/HDMG-KindleBooks) [THIS PROJECT IS OUT-OF-DATE AND WILL NOT BE MAINTAINED]
 # About
 **HDcodes** is an organisation specialising in Coding & Programming
 - Skill 66/100 i guess

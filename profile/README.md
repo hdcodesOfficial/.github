@@ -2,7 +2,8 @@
 Founder & Head: [@deepanharsha](https://github.com/deepanharsha/)
 
 # PROJECTS
-- will mention :)
+- [HDMG-KindleBooks](https://github.com/hdcodesOfficial/HDMG-KindleBooks)
+- [ProjectYTGet](https://github.com/hdcodesOfficial/ProjectYTGet)
 
 # About
 **HDcodes** is an organisation specialising in Coding & Programming

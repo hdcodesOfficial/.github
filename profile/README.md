@@ -3,9 +3,9 @@ Founder & Head: [@deepanharsha](https://github.com/deepanharsha/)
 
 # PROJECTS
 ### Active Projects:
-- [ProjectYTGet](https://github.com/hdcodesOfficial/ProjectYTGet)
-### Inactive Projects:
 - None
+### Inactive Projects:
+- [ProjectYTGet](https://github.com/hdcodesOfficial/ProjectYTGet)
 ### Discontinued/ Not Maintained Projects:
 - [HDMG-KindleBooks](https://github.com/hdcodesOfficial/HDMG-KindleBooks) [THIS PROJECT IS OUT-OF-DATE AND WILL NOT BE MAINTAINED]
 

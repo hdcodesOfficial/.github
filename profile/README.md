@@ -1,6 +1,3 @@
-# Founder
-Founder & Head: [@deepanharsha](https://github.com/deepanharsha/)
-
 # PROJECTS
 ### Active Projects:
 - None
@@ -12,11 +9,5 @@ Founder & Head: [@deepanharsha](https://github.com/deepanharsha/)
 # Announcements 📣
 - **RECRUITING MEMBERS** [Contact Here](https://github.com/hdcodesOfficial/#contact-us)
 
-# Members 
-NAME | POSITION | JOIN DATE | USERNAME | CONTACT DETAILS
-- Harsha Deepan | Founder,Head | 🤔 | @deepanharsha | [LOOK BELOW](https://github.com/hdcodesOfficial#contact-us)
-- now this is why we're recruiting :(
-
 # CONTACT US
-Contact Of Head (Harsha Deepan)
-Instagram: [@notshoelaze](https://www.instagram.com/notshoelaze/) [PLEASE DM ONLY AFTER FOLLOWING]
+E-Mail: [HDCodes](mailto:crewverify+hdcodes@gmail.com)
